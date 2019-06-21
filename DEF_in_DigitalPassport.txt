@@ -14,7 +14,7 @@ It is self-sovereign, poratble, completely managed by the personal, and GDPR-com
 It addition, EDF supports "Trustee model" as well.
 
 FIG.1 
-(see https://kaula.jp/2018/05/16/def/ )
+(see 1805_DEFStructure.png    or   https://kaula.jp/2018/05/16/def/ )
 
 Document Eigen Framework
 
