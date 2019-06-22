@@ -14,8 +14,7 @@ Any access footprints, including creat, update and erase, are kept in Blockchain
 It is self-sovereign, poratble, completely managed by the personal, and GDPR-compliant.
 It addition, EDF supports "Trustee model" as well.
 
-[Fig 1. DEF](https://kaula.jp/2018/05/16/def/)
-Or see 1805_DEFStructure.png     
+![Fig 1. DEF](1805_DEFStructure.png)
 
 
 
