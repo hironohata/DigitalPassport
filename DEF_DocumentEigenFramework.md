@@ -17,9 +17,7 @@ It addition, EDF supports "Trustee model" as well.
 [Fig 1. DEF](https://kaula.jp/2018/05/16/def/)
 Or see 1805_DEFStructure.png     
 
-Document Eigen Framework
 
-"Document Eigen Framework" will be soon available for application builders.
 
 For more detailed infomation, please contact us.
 
